@@ -1,5 +1,6 @@
 **Goal Tracker - MERN Stack Application**
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to help users set, track, and achieve their personal goals. Features a clean, intuitive interface for managing your objectives and monitoring progress.
+![Dashboard](./screenshots/progress.PNG)
 
 
 **Features**
